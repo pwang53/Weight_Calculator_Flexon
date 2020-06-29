@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="WeightCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WeightCalculator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="WeightCalculator.jar">
+        <element id="module-output" name="WeightCalculator" />
+      </element>
+    </root>
+  </artifact>
+</component>
